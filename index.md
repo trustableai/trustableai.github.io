@@ -4,7 +4,7 @@ Trustable AI is a decentralized autonomous organization.
 Field of interests is Trust economy after AI becomes a juridical person.
 
 ### Hypothesis
-1. AI will inevitably enter the human economy
+1. AI will inevitably enter the human economy.
 2. the existing economic system (moral, legal natural persons) is based on the modernity of the state's legal rights, which are attached to the rights of individuals. There will be an impact on the basis that the change cannot be covered or explained.
 3. governance presumptions, which would impact on the government regulatory regime before the individual.
 
