@@ -1,3 +1,5 @@
+## About
+
 Trustable AI is a decentralized protocol of gathering with people get involved in the movement of building Trustable AI, also is a decentralized autonomous organization on blockchain. Field of interests is Trust economy after AI becomes a juridical person.
 
 ### Our Hypothesis
