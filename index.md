@@ -1,6 +1,8 @@
+A decentralized protocol of gathering with people get involved in the movement of building Trustable AI.
+
 ## About
 
-Trustable AI is a decentralized autonomous organization.
+Trustable AI is a decentralized autonomous organization on blockchain.
 Field of interests is Trust economy after AI becomes a juridical person.
 
 ### Hypothesis
@@ -13,3 +15,6 @@ Field of interests is Trust economy after AI becomes a juridical person.
 2. What is the current status of the rights debate/what are the issues of debate?
 3. What are the change scenarios if AI enter the human economic system?
 4. Within or outside the scope of existing regulatory mechanisms or governance systems?
+
+## Token economy
+Uder development.
