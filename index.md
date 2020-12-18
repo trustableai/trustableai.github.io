@@ -18,8 +18,8 @@ Trustable AI is a decentralized protocol of gathering with people get involved i
 ## Token economy
 Under development.
 
-# FAQ
+## FAQ
 
-## What is different between "Trustable AI" and "Trustworthy AI"?
+### What is different between "Trustable AI" and "Trustworthy AI"?
 Trustable implies able to be trusted, and trustworthy implies worthy of trust. Being trustable doesn't necessarily imply trustworthy, and vice versa. The
 Machines are not trustworthy; only humans can be trustworthy (or untrustworthy). 
