@@ -14,4 +14,4 @@ Trustable AI is a decentralized protocol of gathering with people get involved i
 4. Within or outside the scope of existing regulatory mechanisms or governance systems?
 
 ## Token economy
-Uder development.
+Under development.
