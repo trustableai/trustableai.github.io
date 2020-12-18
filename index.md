@@ -1,4 +1,4 @@
-# A place where early adopters *promote* startups who offer solutions help building Trustable AI.
+# A place where early adopters *promote* startups which offer solutions help building Trustable AI.
 
 ## About
 
