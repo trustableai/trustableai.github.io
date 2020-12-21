@@ -43,7 +43,7 @@ The components are:
 Trustable implies able to be trusted, and trustworthy implies worthy of trust. Being trustable doesn't necessarily imply trustworthy, and vice versa. The
 Machines are not trustworthy; only humans can be trustworthy (or untrustworthy). 
 
-Trustable AI is more about to create a compensation mechanisms for AI consumer victimization. and "Trustworthy AI" is more focus on ethical consideration and public interest.
+Trustable AI is more about to create a compensation mechanisms for AI consumer victimization and "Trustworthy AI" is more focus on ethical consideration and public interest.
 
 ### What is AI?
 To be practical and down to the ground, We simply think AI are a self-learnable algorithms, no matter it is machine learning, deep learning or other fancy algorithms in the future.
