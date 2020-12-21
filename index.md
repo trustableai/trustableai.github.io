@@ -27,7 +27,7 @@ If you have any idea, please contact hi@trustable.ai.
 ### Community
 The community are formed by the people might have roles as below:
 1. Consumer :: Companies or people using artificial intelligence.
-2. Manufacture :: Companies or people offer artificial intelligence..
+2. Manufacture :: Companies or people offer artificial intelligence.
 3. Third-party Aduitor :: An individual or a certification/verification lab do quality assurance or legal compliance.
 4. Investor :: An individual or organization hold shares of "Verifiable Claims"  by overcollateralized valuable tokens, to earn some QIYUN from community treasure if the "Verifiable Claims" is still true regularly. Overcollateralized valuable tokens locked in community treasure, and earn interests from other DeFi services.
 5. Team :: The team that develop the protocol.
@@ -46,7 +46,7 @@ Machines are not trustworthy; only humans can be trustworthy (or untrustworthy).
 Trustable AI is more about to create a compensation mechanisms for AI consumer victimization and "Trustworthy AI" is more focus on ethical consideration and public interest.
 
 ### What is AI?
-To be practical and down to the ground, We simply think AI are a self-learnable algorithms, no matter it is machine learning, deep learning or other fancy algorithms in the future.
+To be practical and down to the ground, we simply think AI are a self-learnable algorithms, no matter it is machine learning, deep learning or other fancy algorithms in the future.
 
 Due to the autonomous nature of AI, and the fact that AI users, AI developers together, with or without purpose, influence the behavior of AI, It is difficult to treat AI as a product in civil law simply. In order to deal with contractual and tort liability, it is necessary to develop a new form of distributed liability for risk diversification purposes.
 
