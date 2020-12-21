@@ -29,7 +29,7 @@ The community are formed by the people might have roles as below:
 1. Consumer :: Companies or people using artificial intelligence.
 2. Manufacture :: Companies or people offer artificial intelligence..
 3. Third-party Aduitor :: An individual or a certification/verification lab do quality assurance or legal compliance.
-4. Second Market Investor :: An individual or organization hold shares of "Verifiable Claims" for financial returns.
+4. An individual or organization hold shares of "Verifiable Claims"  by overcollateralized valuable tokens, to earn some QIYUN from community treasure if the "Verifiable Claims" is still true regularly. Overcollateralized valuable tokens locked in commmunity tresrue, and earn intersts from other DeFi services.
 5. Team :: The team that develop the protocol.
 
 ### Elementary Components
