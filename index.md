@@ -30,7 +30,7 @@ Community are formed by the people might have roles as below:
 4. Second Market Investor :: An individual or organization provides liquity for finacial returns.
 5. Team :: The team that develop the protocol.
 
-#### Elementary Components
+### Elementary Components
 Components are:
 1. Verifiable Claims : A non-fungible token represents an combination of an executable AI runtime, promised properties and insurances.
 2. Insurance Reserves : Tokens stacked by Manufacture and Consumer for rewarding any third-party auditors.
