@@ -25,7 +25,7 @@ The community use QIYUN to vote for protocol upgrade, issuing grants, bounties a
 If you have any idea, please contact hi@trustable.ai.
 
 ### Community
-Community are formed by the people might have roles as below:
+The community are formed by the people might have roles as below:
 1. Consumer :: Companies or people using artificial intelligence.
 2. Manufacture :: Companies or people offer artificial intelligence..
 3. Third-party Aduitor :: An individual or a certification/verification lab do quality assurance or legal compliance.
@@ -33,7 +33,7 @@ Community are formed by the people might have roles as below:
 5. Team :: The team that develop the protocol.
 
 ### Elementary Components
-Components are:
+The components are:
 1. Verifiable Claims : A non-fungible token represents an combination of an executable AI runtime, promised properties and insurances.
 2. Insurance Reserves : Tokens stacked by Manufacture and Consumer for rewarding any third-party auditors.
 
