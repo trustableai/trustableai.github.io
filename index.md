@@ -16,7 +16,24 @@ Trustable AI is a decentralized protocol of gathering with people get involved i
 4. Within or outside the scope of existing regulatory mechanisms or governance systems?
 
 ## Token economy
-Under development.
+== Under development ==
+
+"QIYUN" is the governance token of Trustable AI DAO. (QIYUN will be replaced to new name once the token economy is finalized), the initial token supply will be N, D1% reserved for the Team, D2% reserved as community treasury, for ecosystem development (rewarded as grants, bounties), D3% will be distributed to strategic investors, D4% will be distributed as reward, to protocol contributors.
+
+If you have any idea, please contact hi@trustable.ai.
+
+### Community
+Community are formed by the people might have roles as below:
+1. Consumer :: Companies or people using artificial intelligence.
+2. Manufacture :: Companies or people offer artificial intelligence..
+3. Third-party Aduitor :: An individual or a certification/verification lab do quality assurance or legal compliance.
+4. Second Market Investor :: An individual or organization provides liquty for finacial returns.
+5. Team :: The team that develop the protocol.
+
+#### Elementary Components
+Components are:
+1. Verifiable Claims : A non-fungible token represents an combination of an executable AI runtime, promised properties and insurances.
+2. Insurance Reserves : Tokens stacked by Manufacture and Consumer for rewarding any third-party auditors.
 
 ## FAQ
 
