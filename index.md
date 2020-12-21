@@ -20,6 +20,8 @@ Trustable AI is a decentralized protocol of gathering with people get involved i
 
 "QIYUN" is the governance token of Trustable AI DAO. (QIYUN will be replaced to new name once the token economy is finalized), the initial token supply will be N, D1% reserved for the Team, D2% reserved as community treasury, for ecosystem development (rewarded as grants, bounties), D3% will be distributed to strategic investors, D4% will be distributed as reward, to protocol contributors.
 
+The community use QIYUN  voting for protocol upgrade, issuing grants, bounties and ranking manufactures/auditors.
+
 If you have any idea, please contact hi@trustable.ai.
 
 ### Community
