@@ -32,3 +32,8 @@ To be practical and down to the ground, We simply think AI are a self-learnable 
 Due to the autonomous nature of AI, and the fact that AI users, AI developers together, with or without purpose, influence the behavior of AI, It is difficult to treat AI as a product in civil law simply. In order to deal with contractual and tort liability, it is necessary to develop a new form of distributed liability for risk diversification purposes.
 
 In the consideration of AI should be a "distributed agency", we propose that each AI is a "decentralized autonomous organization" with specialized deposits for reinsurance liability, in charge of manage deployment (and undeployment) of risk-indeterminable algorithms.
+
+### What is Decentralized Autonomous Organization?
+
+According [Wikipidia](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization), "A decentralized autonomous organization (DAO), sometimes labeled a decentralized autonomous corporation (DAC), is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government."
+
