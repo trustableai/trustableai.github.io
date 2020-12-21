@@ -27,7 +27,7 @@ Community are formed by the people might have roles as below:
 1. Consumer :: Companies or people using artificial intelligence.
 2. Manufacture :: Companies or people offer artificial intelligence..
 3. Third-party Aduitor :: An individual or a certification/verification lab do quality assurance or legal compliance.
-4. Second Market Investor :: An individual or organization provides liquty for finacial returns.
+4. Second Market Investor :: An individual or organization provides liquity for finacial returns.
 5. Team :: The team that develop the protocol.
 
 #### Elementary Components
