@@ -23,3 +23,12 @@ Under development.
 ### What is different between "Trustable AI" and "Trustworthy AI"?
 Trustable implies able to be trusted, and trustworthy implies worthy of trust. Being trustable doesn't necessarily imply trustworthy, and vice versa. The
 Machines are not trustworthy; only humans can be trustworthy (or untrustworthy). 
+
+Trustable AI is more about to create a compensation mechanisms for AI consumer victimization. and Trustworthy AI" is more focus on ethical consideration and public interest.
+
+### What is AI?
+To be practical and down to the ground, We simply think AI is simply a self-learnable algorithm, no matter it is machine learning, deep learning or other fancy algorithms in the future.
+
+Due to the autonomous nature of AI, and the fact that AI users, AI developers together, with or without purpose, influence the behavior of AI, It is difficult to treat AI as a product in civil law simply. In order to deal with contractual and tort liability, it is necessary to develop a new form of distributed liability for risk diversification purposes.
+
+In the consideration of AI should be a "distributed agency", we propose that each AI is a "decentralized autonomous organization" with specialized deposits for reinsurance liability, in charge of manage deployment (and undeployment) of risk-indeterminable algorithms.
