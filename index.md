@@ -37,6 +37,20 @@ The components are:
 1. Verifiable Claims : A non-fungible token represents an combination of an executable AI runtime, promised properties and insurances.
 2. Insurance Reserves : Tokens stacked by Manufacture and Consumer for rewarding any third-party auditors.
 
+## Roadmap
+
+- 2020/Q4 : 
+  - Develop DAO on [Polkadot](Polkadot).
+- 2021/Q1 : 
+  - Develop alternative of Buffer.com for DAO on [Polkadot](https://polkadot.network/).
+- 2021/Q2 : 
+  - Launch a database of suppliers, third party auditors related to builing Trustable AI.
+- 2021/Q3 : 
+  - Launch a convert to casting Deep Learning model to Non Fougee Token on on [Polkadot](https://polkadot.network/).
+- 2021/Q4 : 
+  - Deep Learning Model DO on [Polkadot](https://polkadot.network/).
+  - SDK to hook supporting claims for DL model Manufacture.
+
 ## FAQ
 
 ### What is different between "Trustable AI" and "Trustworthy AI"?
