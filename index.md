@@ -46,9 +46,9 @@ The components are:
 - 2021/Q2 : 
   - Launch a database of suppliers, third party auditors related to builing Trustable AI.
 - 2021/Q3 : 
-  - Launch a convert to casting Deep Learning model to Non Fougee Token on on [Polkadot](https://polkadot.network/).
+  - Launch a convert to casting Deep Learning model to Non-Fungible token(NFT) on on [Polkadot](https://polkadot.network/).
 - 2021/Q4 : 
-  - Deep Learning Model DO on [Polkadot](https://polkadot.network/).
+  - Deep Learning Model DAO on [Polkadot](https://polkadot.network/).
   - SDK to hook supporting claims for DL model Manufacture.
 
 ## FAQ
