@@ -4,6 +4,10 @@
 
 Trustable AI is a decentralized protocol of gathering with people get involved in the movement of building Trustable AI, also is a decentralized autonomous organization on blockchain. Field of interests is Trust economy after AI becomes a juridical person, "Trustworthy AI", "Explainable AI" and "AI Alignment".
 
+- [Twitter](https://twitter.com/trustableai).
+- [Linkedin](https://pk.linkedin.com/company/trustableai).
+- [Facebook](https://www.facebook.com/trustableai).
+
 ### Our Hypothesis
 1. AI will inevitably enter the human economy.
 2. the existing economic system (moral, legal natural persons) is based on the modernity of the state's legal rights, which are attached to the rights of individuals. There will be an impact on the basis that the change cannot be covered or explained.
