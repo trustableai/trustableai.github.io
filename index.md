@@ -49,7 +49,7 @@ The components are:
   - Launch a convert to casting Deep Learning model to Non-Fungible token(NFT) on on [Polkadot](https://polkadot.network/).
 - 2021/Q4 : 
   - Deep Learning Model DAO on [Polkadot](https://polkadot.network/).
-  - SDK to hook Verifiable Claimsm to Deep Learning model.
+  - SDK to hook Verifiable Claims to Deep Learning model.
 
 ## FAQ
 
