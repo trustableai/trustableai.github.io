@@ -40,6 +40,7 @@ The community are formed by the people might have roles as below:
 The components are:
 1. Verifiable Claims : A non-fungible token represents an combination of an executable AI runtime, promised properties and insurances.
 2. Insurance Reserves : Tokens stacked by Manufacture and Consumer for rewarding any third-party auditors.
+3. Cross-chain DeFi hub and stablecoin platform : something like [Acala](https://acala.network/).
 
 ## Roadmap
 
