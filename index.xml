@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on TrustableAI </title>
+    <link>https://trustable.ai/</link>
+    <description>Recent content in Home on TrustableAI </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://trustable.ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://trustable.ai/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://trustable.ai/about/</guid>
+      <description>TrustableAI is a decentralized autonomous organization on Polkadot. Field of interests is Trust economy after AI becomes a juridical person, &amp;ldquo;Trustworthy AI&amp;rdquo;, &amp;ldquo;Explainable AI&amp;rdquo; and &amp;ldquo;AI Alignment&amp;rdquo;.
+Our Hypothesis  AI will inevitably enter the human economy. the existing economic system (moral, legal natural persons) is based on the modernity of the state&amp;rsquo;s legal rights, which are attached to the rights of individuals. There will be an impact on the basis that the change cannot be covered or explained.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://trustable.ai/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://trustable.ai/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://trustable.ai/faq/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://trustable.ai/faq/</guid>
+      <description>What is different between &amp;ldquo;Trustable AI&amp;rdquo; and &amp;ldquo;Trustworthy AI&amp;rdquo;? Trustable implies able to be trusted, and trustworthy implies worthy of trust. Being trustable doesn&amp;rsquo;t necessarily imply trustworthy, and vice versa. The Machines are not trustworthy; only humans can be trustworthy (or untrustworthy).
+Trustable AI is more about to create a compensation mechanisms for AI consumer victimization and &amp;ldquo;Trustworthy AI&amp;rdquo; is more focus on ethical consideration and public interest.
+What is AI?</description>
+    </item>
+    
+    <item>
+      <title>Whitepaper</title>
+      <link>https://trustable.ai/whitepaper/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://trustable.ai/whitepaper/</guid>
+      <description>== Under development ==
+Introduction The goal of this project is to create a decentralized matching protocol of AI manufactures, AI buyers and third-party auditors.
+Token economy &amp;ldquo;QIYUN&amp;rdquo; is the governance token of Trustable AI DAO. (QIYUN will be replaced to new name once the token economy is finalized), the initial token supply will be N, D1% reserved for the Team, D2% reserved as community treasury, for ecosystem development (rewarded as grants, bounties), D3% will be distributed to strategic investors, D4% will be distributed as reward, to protocol contributors.</description>
+    </item>
+    
+  </channel>
+</rss>
